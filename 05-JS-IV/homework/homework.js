@@ -34,6 +34,7 @@ function eliminarPropiedad (objeto, unaPropiedad) {
   // tip: tenes que usar bracket notation
   // Devuelve el objeto
   // Tu código:
+  sdfasdas
 }
 
 function nuevoUsuario (nombre, email, password) {

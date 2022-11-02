@@ -1,0 +1,5 @@
+FOR: son bucles que evalúan expresiones una y otra vez, hasta que devuelve lo que estamos buscando o se detiene despues de un cierto tiempo.
+OPERADORES LOGICOS:
+&&: evalua ambas expresiones y se cumple cuando AMBAS expresiones se cumplen.
+||: se cumple si una o las dos expresiones se cumplen.
+!: operador NOT, devolverá el valor booleano opuesto de lo que se le pasa.
