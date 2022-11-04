@@ -1,0 +1,2 @@
+PROTOTYPE: es la manera que tienen las clases de dar acceso a cada objeto de esa clase, a cada metodo.
+CONSTRUCTOR: es un metodo especial para crear una clase. Solo puede haber UN constructor en cada clase.
