@@ -1,0 +1,4 @@
+OBJETOS: Son similares a las matrices o arrays, los objetos contienen mucha información sobre una sola cosa y se declaran usando {}.
+PROPIEDADES: Las propiedades de los objetos son las claves que contienen los valores.
+METODOS: Llamamos metodos a las funciones declaradas dentro de los objetos.
+FOR IN: Para iterar en entre claves valor en un objeto, no podemos hacerlo de la manera tradicional, ya que los objetos no tienen un idice numérico, para eso se utiliza el for in.
